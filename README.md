@@ -6,3 +6,4 @@
 | [Properties of estimators](https://marimo.app/l/07ddf9) |  |  |
 | [Issues with R-squared](https://marimo.app/l/vxz67s) |  |  |
 | [Multicollinearity and standard errors](https://marimo.app/l/l2iv6q) |  |  |
+| [Multicollinearity and standard errors](https://marimo.app/l/ybzq09) |  |  |
