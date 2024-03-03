@@ -1,7 +1,7 @@
 # OLS
 | Notebook |  |  |
 |----------|----------|----------|
-| [Hypotheses testing](https://marimo.app/l/ybzq09) |  |  |
+| [Hypotheses testing](https://marimo.app/l/ga3ic9) |  |  |
 | [Population vs sample](https://marimo.app/l/7h0dis) |  |  |
 | [Adding observation](https://marimo.app/l/cab8bt) |   |  |
 | [Properties of estimators](https://marimo.app/l/07ddf9) |  |  |
