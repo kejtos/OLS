@@ -5,6 +5,6 @@
 | [Population vs sample](https://marimo.app/l/7h0dis) |  |  |
 | [Adding observation](https://marimo.app/l/cab8bt) |   |  |
 | [Properties of estimators](https://marimo.app/l/hb0hjm) |  |  |
-| [Issues with R-squared](https://marimo.app/l/vxz67s) |  |  |
+| Issues with R-squared | [Notebook](https://marimo.app/l/zmxa2k) | [Carousel](https://marimo.app/l/zmxa2k) |
 | [Multicollinearity and standard errors](https://marimo.app/l/l2iv6q) |  |  |
 
