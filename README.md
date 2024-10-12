@@ -9,3 +9,4 @@
 | Multicollinearity and standard errors | [Notebook](https://marimo.app/l/l2iv6q) |  |
 | Significance | [Notebook](https://marimo.app/l/0g88hh) |  |
 | OLS | [Notebook](https://marimo.app/l/unom0e) |  |
+| Bias | [Notebook](https://marimo.app/l/ll6smb) |  |
